@@ -41,6 +41,7 @@ function App() {
     let currentA00 = document.querySelector('#a00').value
     let currentA01 = document.querySelector('#a01').value
     let currentA02 = document.querySelector('#a02').value
+    let currentA03 = document.querySelector("#a03").value
     if(currentSum==='')
     return;
 // 2. This line is where you add the points all together. Add your other variable references here. Make sure that they match what is above and what is below in the HTML form
